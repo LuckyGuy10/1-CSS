@@ -1,0 +1,49 @@
+body{background: rgb(189, 233, 203);
+    font-size: 16px;
+    font-weight: normal;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#avatar{
+    width: 300px;
+    border-radius: 28px;
+    box-shadow:4px 4px 14px black;
+}
+.container{
+width:750px ;
+padding-top: 30px;
+  }.bg-green{
+    background-color: rgb(150, 219, 150);
+}
+    .bg-yellow{
+        background-color: rgb(150, 219, 150);
+    }
+.bg-red{
+    background-color: rgb(150, 219, 150);
+}
+.card{margin: auto;
+    
+    
+  
+}
+.info-text{
+    margin-left: 40px;
+}
+
+.table{
+   width: 100%;
+}
+.time{
+    margin-left: 500px;
+    padding-bottom: 10px;
+}
+
+.info{
+    margin-bottom: 20px;
+    display:flex
+}
+.hepi{
+    margin-left: 700px;
+    margin-bottom: 20px;
+    
+}
